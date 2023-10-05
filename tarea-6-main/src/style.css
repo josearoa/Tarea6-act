@@ -221,5 +221,24 @@ h3{
     .footer{
         width: 650px;
     }
+
+    .main{
+        margin-left: 35px;
+        justify-content: center;
+        align-items: center;
+    }
     
+    .titlenames{
+        text-align: center;
+        font-size: 25px;
+        }
+    
+    .name{
+        font-size: 15px;
+        text-align: center;
+    }
+
+    h3{
+        font-size: 20px;
+    }
 } 
